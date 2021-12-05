@@ -1,0 +1,8 @@
+---- 001
+<style>
+<script>
+
+window.alert('') = janela dde mensagem
+window.confirm('') = janela com opção 'cancela'
+window.prompt('') = janela com barra para escrita
+
