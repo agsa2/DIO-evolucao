@@ -7,8 +7,10 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 HTML5 e CSS3
 
 Java
-	* Estruturas de dados
-		* Pilha
-JavaScript
+* Estruturas de dados
+	* Pilha
+	
+JavaScripty
+
 
 
