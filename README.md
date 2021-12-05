@@ -8,7 +8,8 @@ Java
 * Estruturas de dados
 	* Pilha
 
-JavaScript
+JavaScripty
+
 
 
 
