@@ -12,6 +12,7 @@ public class No {
 
 	public No(int dados) {
 		this.dados = dados;
+		this.prox = null;
 	}
 
 	public int getDados() {
