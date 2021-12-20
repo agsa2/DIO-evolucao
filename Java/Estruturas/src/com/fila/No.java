@@ -3,7 +3,7 @@ package com.fila;
 public class No<T> {
 	
 	private T object;
-	private No<T> refNo;
+	private No refNo;
 	
 	public No() {
 	}

@@ -7,6 +7,7 @@ HTML5 e CSS3
 Java
 * Estruturas de dados
 	* Pilha
+	* Lista
 
 JavaScripty
 
