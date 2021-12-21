@@ -1,4 +1,4 @@
-GitHub = https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
+GitHub para pdf das aulas= https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
 
 Repositorio = https://gustavoguanabara.github.io/
 

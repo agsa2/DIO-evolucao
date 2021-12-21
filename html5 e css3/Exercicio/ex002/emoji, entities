@@ -1,0 +1,9 @@
+Uso de paragrafos, e quebra de linhas. 
+Também o uso de  &lt;p&gt;
+
+<!----> para comentarios
+
+Lista de entities: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/05%20-%20Caracteres%2C%20par%C3%A1grafos%20e%20quebras%20de%20linha.pdf
+
+adicionar emoji = emojipedia
+&#x para informar que é exadecimal e o valor do emoji 

@@ -1,0 +1,30 @@
+Imagens
+
+Sites: unsplash, pexels
+https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/06%20-%20Imagens%20e%20Favicon.pdf
+
+jpeg = compacta uma imagem
+png = transparencia, melhor por cima com transparencia.
+
+Usar o GIMP para manipulaçã da imagem
+largura da imagem no maximo com 1500
+resolução 50, 60, 70
+exportar como jpeg
+
+tag
+
+<img src="ctrl+espaço" alt="texto">
+
+favicons
+
+iconarchive.com
+baixar formato .ico
+imagens com pouco detalhe
+
+criar ico = favico.cc
+fazer testo virar um icone = favico.io
+
+colocar a tag link:favicon em cima de title
+substituir o href pelo local do fivicon
+
+
