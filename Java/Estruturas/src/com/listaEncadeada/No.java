@@ -6,6 +6,7 @@ public class No<T> {
 	private No proxNo;
 	
 	public No() {
+		this.proxNo = null;
 	}
 	
 	public No(T conteudo) {

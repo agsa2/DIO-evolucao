@@ -2,7 +2,7 @@ package com.fila;
 
 public class No<T> {
 	
-	private T object;
+	private T  object;
 	private No refNo;
 	
 	public No() {
@@ -10,7 +10,7 @@ public class No<T> {
 	
 	public No(T object) {
 		this.object = object;
-		this.refNo = null;
+		this.refNo  = null;
 	}
 
 	public Object getObject() {

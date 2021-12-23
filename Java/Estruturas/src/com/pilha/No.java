@@ -3,16 +3,17 @@ package com.pilha;
 public class No {
 	
 	private int dados;
-	private No prox = null;
+	private No  prox;
 	
 	
 	
 	public No() {
+		this.prox = null;
 	}
 
 	public No(int dados) {
 		this.dados = dados;
-		this.prox = null;
+		this.prox  = null;
 	}
 
 	public int getDados() {
