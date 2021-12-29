@@ -10,7 +10,7 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 ## Java
 * Estruturas de dados:
 
-Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os códigos condize com o curso de Estrutura de Dados 	ministrada pelo professor João Dutra da 	plataforma DIO.
+	Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os códigos condize com o curso de Estrutura de Dados 	ministrada pelo professor João Dutra da 	plataforma DIO.
 
 	* Pilha
 		* isEmpty()
@@ -59,7 +59,7 @@ Implementações de estruturas de dados
 
 	* hashCode e equals:
 	
-	O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
+		O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
 
 	* stack
 	
