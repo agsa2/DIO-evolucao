@@ -1,16 +1,17 @@
-#Evolução dos cursos da DIO
+# Evolução dos cursos da DIO
 
 Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
-##HTML5 e CSS3
+## HTML5 e CSS3
 * Conceitos básicos e hierarquias
 * Inserção de símbolos e emojis
 * Inserção de imagens e favicon
 
-##Java
+## Java
 * Estruturas de dados:
 
 Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os códigos condize com o curso de Estrutura de Dados 	ministrada pelo professor João Dutra da 	plataforma DIO.
+
 	* Pilha
 		* isEmpty()
 		* top()
@@ -55,13 +56,14 @@ Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os c�
 		* remover()
 
 Implementações de estruturas de dados
+
 	* hashCode e equals:
 	
 	O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
 
 	* stack
 	
-##JavaScripty
+## JavaScripty
 
 
 
