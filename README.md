@@ -13,55 +13,51 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 	Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os códigos condize com o curso de Estrutura de Dados 	ministrada pelo professor João Dutra da 	plataforma DIO.
 
 	* Pilha
-		* isEmpty()
-		* top()
-		* push()
-		* pop()
-		* toString()
+	
+	Os principais métodos são: isEmpty(), top(), push(), pop() e toString().
+	
 	* Lista
-		* isEmpty()
-		* size()
-		* add()
-		* getNo()
-		* validar()
-		* get()
-		* remove()
-		* toString()
+	
+	Os principais métodos são: isEmpty(), size(), add(), getNo(), validar(), get(), remover() e toString().
+		
 	* Lista Dulamente encadeada
-		* add(elemento)
-		* add(index, elemento)
-		* remove()
-		* get()
-		* getNo()
-		* size()
-		* toString()
+	
+	Os principais métodos são: add(elemento), add(index, elemento), remover() getNo(), get(), size() e toString().
+		
 	* Lista Circular
-		* add()
-		* remove()
-		* get()
-		* getNo()
-		* isEmpty()
-		* toString()
+	
+	Os principais métodos são: add(), remover(), get(), getNo(), isEmpty() e toString().
+		
 	* fila
-		* isEmpty()
-		* enqueue()
-		* first()
-		* dequeue()
-		* toString()
+	
+	Os principais métodos são: isEmpty(), enqueue(), first(), dequeue() e toString().
+		
 	* Árvore Binaria
-		* inserir()
-		* exibirInOrdem()
-		* exibirPosOrdem()
-		* exibirPreOrdem()
-		* remover()
+	
+	Os principais métodos são: inserir(), exibirInOrdem(), exibirPosOrdem(), exibirPreOrdem() e remover().
 
-Implementações de estruturas de dados
+	Implementações de estruturas de dados
 
 	* hashCode e equals:
 	
-		O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
+	O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
 
-	* stack
+	* stack:
+	
+	Os pricipais métodos são:pop(), peek() e empty().
+	
+	* queue(fila, linkedList:
+	
+	Os principais métodos são: add(), element(), offer(), peek(), remove(), size(), poll() e isEmpty(). 
+	
+	* list(arrayList):
+	
+	Os principais métodos são: add(), contains(), get(), indexOf() e remove().
+	
+	* set(hashSet, treeSet)
+	* map(hashMap)
+	
+	
 	
 ## JavaScripty
 

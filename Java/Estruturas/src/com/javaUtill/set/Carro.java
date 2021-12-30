@@ -1,6 +1,6 @@
-package com.stack;
+package com.javaUtill.set;
 
-public class Carro {
+public class Carro implements Comparable<Carro>{
 
 	private String marca;
 	
@@ -44,6 +44,19 @@ public class Carro {
 	@Override
 	public String toString() {
 		return "Carro [marca=" + marca + "]";
+	}
+
+	@Override
+	public int compareTo(Carro o) {
+		if (this.marca.length() < o.marca.length()) {
+			return -1;
+		}
+		else if (this.marca.length() > o.marca.length()) {
+			return 1;
+		}
+		else {
+			return 0;
+		}
 	}
 	
 	
