@@ -57,7 +57,10 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 	* set(hashSet, treeSet)
 	* map(hashMap)
 	
-	
+* Collections
+
+	* List
+
 	
 ## JavaScripty
 
