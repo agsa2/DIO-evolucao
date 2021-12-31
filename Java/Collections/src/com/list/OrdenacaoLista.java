@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 
-public class OrdenaçãoLista {
+public class OrdenacaoLista {
 
 	public static void main(String[] args) {
 		
