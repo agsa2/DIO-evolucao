@@ -14,8 +14,8 @@ public class MainMetodos {
 	public static void main(String[] args) {
 		
 		Map<String, Double> carros = new HashMap<>() {{
-			put("gol", 14.4);
-			put("uno", 15.6);
+			put("gol" , 14.4);
+			put("uno" , 15.6);
 			put("mobi", 16.1);
 			put("hb20", 14.5);
 			put("kwid", 15.6);
@@ -96,8 +96,8 @@ public class MainMetodos {
 		
 		System.out.println("Exiba os carros na ordem de inserção");
 		Map<String, Double> carros1 = new LinkedHashMap<>() {{
-			put("gol", 14.4);
-			put("uno", 15.6);
+			put("gol" , 14.4);
+			put("uno" , 15.6);
 			put("mobi", 16.1);
 			put("hb20", 14.5);
 			put("kwid", 15.6);

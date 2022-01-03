@@ -23,8 +23,8 @@ public class OrdenacaoMap {
 		}};
 		for (Map.Entry<String, Livro> entry : livros.entrySet()) {
 			System.out.println(entry.getKey() + " - " +
-								entry.getValue().getNome() + " - "+
-								entry.getValue().getPaginas());
+							   entry.getValue().getNome() + " - " +
+							   entry.getValue().getPaginas());
 		}
 		System.out.println();
 		
@@ -37,8 +37,8 @@ public class OrdenacaoMap {
 		
 		for (Map.Entry<String, Livro> entry : livros1.entrySet()) {
 			System.out.println(entry.getKey() + " - " +
-								entry.getValue().getNome() + " - "+
-								entry.getValue().getPaginas());
+							   entry.getValue().getNome() + " - "+
+							   entry.getValue().getPaginas());
 		}
 		System.out.println();
 		
@@ -46,8 +46,8 @@ public class OrdenacaoMap {
 		Map<String, Livro> livros2 = new TreeMap<>(livros);
 		for (Map.Entry<String, Livro> entry : livros2.entrySet()) {
 			System.out.println(entry.getKey() + " - " +
-								entry.getValue().getNome() + " - "+
-								entry.getValue().getPaginas());
+							   entry.getValue().getNome() + " - "+
+							   entry.getValue().getPaginas());
 		}
 		System.out.println();
 		
@@ -56,8 +56,8 @@ public class OrdenacaoMap {
 		livros3.addAll(livros.entrySet());
 		for (Map.Entry<String, Livro> entry : livros3) {
 			System.out.println(entry.getValue().getNome() + " - " +
-								entry.getKey() + " - "+
-								entry.getValue().getPaginas());
+							   entry.getKey() + " - "+
+							   entry.getValue().getPaginas());
 		}
 		System.out.println();
 		
@@ -66,8 +66,8 @@ public class OrdenacaoMap {
 		livros4.addAll(livros.entrySet());
 		for (Map.Entry<String, Livro> entry : livros4) {
 			System.out.println(entry.getValue().getPaginas()+ " - " +
-								entry.getKey() + " - "+
-								entry.getValue().getNome() );
+							   entry.getKey() + " - "+
+							   entry.getValue().getNome() );
 		}
 		
 	}
@@ -75,11 +75,11 @@ public class OrdenacaoMap {
 }
 
 class Livro {
-	private String nome;
+	private String  nome;
 	private Integer paginas;
 	
 	public Livro(String nome, Integer paginas) {
-		this.nome = nome;
+		this.nome    = nome;
 		this.paginas = paginas;
 	}
 
