@@ -29,6 +29,7 @@ public class MetodosStramAPI {
 		//reference method
 		numeros.forEach(System.out::println);
 		System.out.println();
+		System.out.println();
 		
 		
 		System.out.println("Coloque os 5 primeiros dentro de um set");
@@ -66,8 +67,7 @@ public class MetodosStramAPI {
 		System.out.println("Remova os valores impares");
 		collectorList.removeIf(i -> (i%2 != 0));
 		System.out.println(collectorList);
-		
-		
+
 	}
 
 }

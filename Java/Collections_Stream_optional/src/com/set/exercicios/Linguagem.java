@@ -8,8 +8,8 @@ public class Linguagem {
 
 	public static void main(String[] args) {
 		Set<LinguagemFavorita> linguagens = new LinkedHashSet<LinguagemFavorita>() {{
-			add(new LinguagemFavorita("Java", 1995, "eclipse"));
-			add(new LinguagemFavorita("C", 1972, "code bloc"));
+			add(new LinguagemFavorita("Java"  , 1995, "eclipse"));
+			add(new LinguagemFavorita("C"     , 1972, "code bloc"));
 			add(new LinguagemFavorita("Python", 1991, "intellij"));
 		}};
 		

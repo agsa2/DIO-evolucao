@@ -2,6 +2,7 @@ package com.set;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
+import java.util.Optional;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -9,6 +10,7 @@ public class OrdenacaoSet {
 
 	public static void main(String[] args) {
 		
+
 		Set<Serie> series = new HashSet<Serie>(){{
 			
 			add(new Serie("got", "fantasia", 60));

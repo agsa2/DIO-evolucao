@@ -6,14 +6,14 @@ public class Serie implements Comparable<Serie>{
 
 	private String nome;
 	private String genero;
-	private int tempEpisodio;
+	private int    tempEpisodio;
 
 	public Serie() {
 	}
 
 	public Serie(String nome, String genero, int tempEpisodio) {
-		this.nome = nome;
-		this.genero = genero;
+		this.nome         = nome;
+		this.genero       = genero;
 		this.tempEpisodio = tempEpisodio;
 	}
 

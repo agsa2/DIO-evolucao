@@ -11,9 +11,9 @@ public class OrdenacaoLista {
 	public static void main(String[] args) {
 		
 		List<Gato> gatos = new ArrayList<>() {{
-			add(new Gato("Jon",   18, "preto"));
-			add(new Gato("Simba", 6,  "tigrado"));
-			add(new Gato("Jon",   12, "amarelo"));
+			add(new Gato("Jon"  , 18, "preto"));
+			add(new Gato("Simba", 6 , "tigrado"));
+			add(new Gato("Jon"  , 12, "amarelo"));
 		}};
 
 		System.out.println(gatos);
@@ -60,14 +60,14 @@ public class OrdenacaoLista {
 
 class Gato implements Comparable<Gato>{
 	
-	private String nome;
+	private String  nome;
 	private Integer idade;
-	private String cor;
+	private String  cor;
 	
 	public Gato(String nome, Integer idade, String cor) {
-		this.nome = nome;
+		this.nome  = nome;
 		this.idade = idade;
-		this.cor = cor;
+		this.cor   = cor;
 	}
 
 	public String getNome() {

@@ -5,14 +5,14 @@ import java.util.Comparator;
 public class LinguagemFavorita implements Comparable<LinguagemFavorita>{
 
 	private String nome;
-	private int anoCriação;
+	private int    anoCriação;
 	private String ide;
 	
 	
 	public LinguagemFavorita(String nome, int anoCriação, String ide) {
-		this.nome = nome;
+		this.nome       = nome;
 		this.anoCriação = anoCriação;
-		this.ide = ide;
+		this.ide        = ide;
 	}
 
 
