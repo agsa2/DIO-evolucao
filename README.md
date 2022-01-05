@@ -12,29 +12,8 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 
 	Aqui temos como objetivo mostrar algumas 	estruturas de dados mais comuns. Os códigos condize com o curso de Estrutura de Dados 	ministrada pelo professor João Dutra da 	plataforma DIO.
 
-	* Pilha
+	* Pilha, Lista, Lista Dulamente encadeada, Lista Circular, fila e Árvore Binaria. 
 	
-	Os principais métodos são: isEmpty(), top(), push(), pop() e toString().
-	
-	* Lista
-	
-	Os principais métodos são: isEmpty(), size(), add(), getNo(), validar(), get(), remover() e toString().
-		
-	* Lista Dulamente encadeada
-	
-	Os principais métodos são: add(elemento), add(index, elemento), remover() getNo(), get(), size() e toString().
-		
-	* Lista Circular
-	
-	Os principais métodos são: add(), remover(), get(), getNo(), isEmpty() e toString().
-		
-	* fila
-	
-	Os principais métodos são: isEmpty(), enqueue(), first(), dequeue() e toString().
-		
-	* Árvore Binaria
-	
-	Os principais métodos são: inserir(), exibirInOrdem(), exibirPosOrdem(), exibirPreOrdem() e remover().
 
 	Implementações de estruturas de dados
 
@@ -42,24 +21,17 @@ Link para PDF markdown: [PDFMarkdown](https://github.com/gustavoguanabara/git-gi
 	
 	O hashCode é usado para facilitar a organização de objetos, e o equals para verificar a igualdade de dois objetos baseado em parâmetros.
 
-	* stack:
+	* stack, queue(fila, linkedList), list(arrayList), set(hashSet, treeSet), map(hashMap).
 	
-	Os pricipais métodos são:pop(), peek() e empty().
-	
-	* queue(fila, linkedList:
-	
-	Os principais métodos são: add(), element(), offer(), peek(), remove(), size(), poll() e isEmpty(). 
-	
-	* list(arrayList):
-	
-	Os principais métodos são: add(), contains(), get(), indexOf() e remove().
-	
-	* set(hashSet, treeSet)
-	* map(hashMap)
-	
-* Collections
+* Collections, optional e Stream API:
 
-	* List
+	* List(LinkedList, ArrayList), set(LinkedHashSet, HashSet, TreeSet):
+	
+	Uso de Iterator e classes Comparable e Comparator.
+	
+	* map(HashMap, LinkedHashMap, TreeMap), uso de Map.Entry
+	* optional(of, ofNullable, empty)
+	* Stream API(Lambda, Classe Anonima, Method function
 
 	
 ## JavaScripty

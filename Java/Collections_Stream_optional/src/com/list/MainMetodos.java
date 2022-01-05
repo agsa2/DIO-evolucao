@@ -14,7 +14,8 @@ public class MainMetodos {
 		List<Double> notas = new ArrayList<>();
 		
 		System.out.println("Cria uma lista de notas");
-		
+
+		notas.a
 		notas.add(4.0);
 		notas.add(9.0);
 		notas.add(6.5);
