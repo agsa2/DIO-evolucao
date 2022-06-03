@@ -44,7 +44,7 @@ public class MetodosOptional {
 		OptionalLong.of(15l).ifPresent(System.out::println);
 		System.out.println();
 		
-		System.out.println(optional.isEmpty());
+		System.out.println(optional.isPresent());
 		System.out.println(optional.isPresent());
 		System.out.println();
 		

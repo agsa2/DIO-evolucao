@@ -1,5 +1,6 @@
 package entities;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import entities.enums.OrderStatus;
@@ -43,10 +44,7 @@ public class Order {
 		this.status = status;
 	}
 
-	@Override
-	public String toString() {
-		return "Orders [id=" + id + ", moment=" + moment + ", status=" + status + "]";
-	}
+	
 	
 	
 	
